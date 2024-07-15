@@ -16,7 +16,7 @@ setup(
     maintainer_email="support@exasol.com",
     description="EXASOL Python WS API v2.0 compatible native driver",
     long_description="EXASOL Python WS API v2.0 compatible native driver based ond Websockets API for communication and JSON for serialization.",
-    url='https://github.com/EXASOL/websocket-api',
+    url='https://github.com/nweiler/websocket-api',
     packages=[
         'EXASOL',
     ],
